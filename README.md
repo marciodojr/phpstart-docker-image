@@ -11,6 +11,7 @@ Módulos:
 - curl
 - redis
 - zip
+- composer v1.6.5
 
 como executar:
 ```
