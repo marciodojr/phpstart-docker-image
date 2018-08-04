@@ -9,7 +9,7 @@ Módulos:
 - xml
 - dom
 - curl
-- redis
+- apcu
 - zip
 - composer v1.6.5
 
