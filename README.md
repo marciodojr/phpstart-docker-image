@@ -11,6 +11,8 @@ Módulos:
 - curl
 - apcu
 - zip
+- gd
+- intl
 - composer v1.6.5
 
 como executar:
